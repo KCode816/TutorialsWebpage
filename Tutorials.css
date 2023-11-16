@@ -1,0 +1,86 @@
+body{
+    /* background-color:#d7e0ff; */
+    font: 'Times New Roman';
+    color: midnightblue;
+}
+
+.checkbox-margin{
+    margin-left: 30px;
+    color: midnightblue;
+}
+
+.input-midnightblue{
+    color: midnightblue;
+}
+
+#psuggestion{
+    font-size: 10px;
+    margin-top: -10px;
+}
+
+#h1title{
+    color:cadetblue;
+    font-size: 50px;
+}
+
+.pcadetblue-top-note{
+    color: cadetblue;
+    margin-top: -30px;
+    margin-bottom: -10px;
+}
+
+#hr-top-break{
+    color: cadetblue;
+    margin-top: 15px;
+    margin-left: 0px;
+}
+
+.indent{
+    text-indent: 30px;
+}
+
+img{
+    height: 30px;
+}
+
+.email{
+    color:blue;
+}
+
+.tutor-name{
+    font-size: 18px;
+    color:darkblue;
+}
+.tutor{
+    margin-top: 3px;
+    font-size: 17px;
+}
+
+.class{
+    margin-bottom: 3px;
+    font-size: 20px;
+}
+
+.math{
+    color:tomato;
+}
+
+.science{
+    color:springgreen;
+}
+
+.ss{
+    color:orange;
+}
+
+.ela{
+    color:skyblue;
+}
+
+.div-footer{
+    background-color: #dbb5ff;
+    margin-left: -5px;
+    margin-right: -5px;
+    margin-bottom: -5px;
+    /* figure out how to spread only background color to cover the whole footer without leaving margins white */
+}
