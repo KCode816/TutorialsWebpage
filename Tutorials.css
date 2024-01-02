@@ -82,8 +82,24 @@ img{
     color:skyblue;
 }
 
+form{
+    background-color: lightblue;
+    padding: 20px !important;
+    /* margin-bottom: -10px; */
+}
+
+.hr-formfooter{
+    border: 3px dashed;
+    color: darkviolet;
+}
+.hr-mainform{
+    color: darkslateblue;
+    border: 3px dashed;
+}
+
 footer{
     background-color: #dbb5ff;
     padding: 3px;
+    /* margin-top: -10px; */
     /* figure out how to spread only background color to cover the whole footer without leaving margins white */
 }
