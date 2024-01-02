@@ -45,11 +45,16 @@ img{
 
 .email{
     color:blue;
+    font-weight: 400;
+    font-size: 14px;
 }
 
 .tutor-name{
-    font-size: 18px;
+    font-size: 20px;
     color:darkblue;
+    font-weight: 700;
+    padding-right: 2px;
+    padding-left: 8px;
 }
 .tutor{
     margin-top: 3px;
@@ -79,6 +84,6 @@ img{
 
 footer{
     background-color: #dbb5ff;
-    padding: 5px;
+    padding: 3px;
     /* figure out how to spread only background color to cover the whole footer without leaving margins white */
 }
