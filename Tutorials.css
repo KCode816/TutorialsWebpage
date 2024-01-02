@@ -77,10 +77,8 @@ img{
     color:skyblue;
 }
 
-.div-footer{
+footer{
     background-color: #dbb5ff;
-    margin-left: -5px;
-    margin-right: -5px;
-    margin-bottom: -5px;
+    padding: 5px;
     /* figure out how to spread only background color to cover the whole footer without leaving margins white */
 }
